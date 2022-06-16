@@ -1,4 +1,7 @@
-# README
+# blog
+Follow along from the Getting Start with Rails guide: 
+https://guides.rubyonrails.org/getting_started.html
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
